@@ -1,3 +1,6 @@
+# LeetCode: Add Binary
+# Idea: Convert binary to integer, add, convert back to binary
+
 class Solution:
     def addBinary(self, a, b):
         x = int(a, 2)
